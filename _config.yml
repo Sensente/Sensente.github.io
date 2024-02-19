@@ -1,6 +1,6 @@
 # Site settings
-title:          Wen's page
-description:    "Personal page about Wen Cheng"
+title:          
+description:    "Welcome to Wen Cheng's page"
 url:            "https://Sensente.github.io"
 
 # Google Analytics
@@ -8,8 +8,8 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Wen Cheng
-  url:          https://chester.how
+  name:         "Wen Cheng, last updated: 2024-02-19"
+  url:          "https://Sensente.github.io"
   email:        wcheng@smail.nju.edu.cn
 
 # Build settings
