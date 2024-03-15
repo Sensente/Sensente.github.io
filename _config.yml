@@ -1,5 +1,5 @@
 # Site settings
-title:          " "
+title:          "Wen Cheng's website"
 description:    "Welcome to Wen Cheng's page"
 url:            "https://Sensente.github.io"
 
@@ -8,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         "Wen Cheng, last updated: 2024-02-20"
+  name:         "Wen Cheng, last updated: 2024-03-15"
   url:          "https://Sensente.github.io"
-  email:        wcheng@smail.nju.edu.cn
+  email:        s1ensente@gmail.com
 
 # Build settings
 markdown:       kramdown
