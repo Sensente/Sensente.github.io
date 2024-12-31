@@ -11,9 +11,9 @@ h2 {
     overflow-y: auto; /* 使其可以垂直滚动 */
     max-height: 250px; /* 可调整容器的最大高度 */
     padding-right: 10px; /* 防止右侧出现滚动条 */
-    border: 1px solid #ccc; /* 可选：为容器添加边框 */
+    border: 1px solid #ffffff; /* 可选：为容器添加边框 */
     border-radius: 5px; /* 可选：为容器添加圆角 */
-    background-color: #f9f9f9; /* 可选：为容器添加背景色 */
+    background-color: #ffffff; /* 可选：为容器添加背景色 */
     scrollbar-width: thin; /* Firefox */
     -ms-overflow-style: -ms-autohiding-scrollbar; /* IE */
 }
