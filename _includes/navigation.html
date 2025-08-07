@@ -1,4 +1,4 @@
-<nav class="nav">
+<!-- <nav class="nav">
   <div class="nav-container">
     <a href="{{ site.baseurl }}/">
       <h2 class="nav-title">{{ site.title }}</h2>
@@ -6,7 +6,16 @@
     <ul>
       <li><a href="{{ site.baseurl }}/">About</a></li>
       <li><a href="{{ '/publication' | prepend: site.baseurl }}">Publication</a></li>
-      <!-- <li><a href="{{ '/teaching' | prepend: site.baseurl }}">Teaching</a></li> -->
+    </ul>
+  </div>
+</nav> -->
+
+<nav class="nav">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}/" class="nav-title">{{ site.title }}</a>
+    <ul class="nav-menu">
+      <li><a href="{{ site.baseurl }}/">About</a></li>
+      <li><a href="{{ '/publication' | prepend: site.baseurl }}">Publication</a></li>
     </ul>
   </div>
 </nav>
